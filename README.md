@@ -1,5 +1,6 @@
 # Project-4---Compound-Interest-Calculator
 A small basic compound interest calculator I have created using simple code
+
  This compound calculator calculates your balance based on: 
  - Your principal amount (invested for example) (can be in decimals)
  - The Interest Rate (can be in decimals)
